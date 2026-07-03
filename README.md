@@ -7,7 +7,7 @@ used in operations and analytics roles — KPI scorecards, time
 trend analysis, and a stack-rank table with conditional formatting 
 to surface underperforming regions instantly.
 
-![Dashboard Preview](dashboard-preview.png)
+![Dashboard Preview](dashboard%20preview.png)
 
 ## What This Project Demonstrates
 
